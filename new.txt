@@ -1,0 +1,27 @@
+Hi
+Today we ae going to stat solidity language intro.It use remix ide code editor.we will write code on it from startup,then will tun on vs code
+      
+         Coure Outline
+
+course introduction
+solidity basic
+remix intoduction
+contract structure
+type and variables
+constructures
+view & pure
+contol flow
+loops
+setter functions
+arrays
+mapping
+error handling
+solidity data concept
+payable functioins
+inheritance and external contract
+multisig wallet.
+
+
+hope so you like it and follow.
+
+
